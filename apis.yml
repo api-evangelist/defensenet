@@ -58,6 +58,11 @@ tags:
 - Acquired
 apis: []
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/f5-networks/
+  name: F5 Networks
+  x-relationship: acquired
+  x-evidence: "In May 2014 the company was acquired by F5 Networks and folded into the F5 Silverline DDoS Protection managed service."
 - type: Website
   url: https://defense.net
 - type: SuccessorProduct
